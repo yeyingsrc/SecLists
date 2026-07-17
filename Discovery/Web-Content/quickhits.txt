@@ -40,6 +40,8 @@
 .cfg
 .checkstyle
 .classpath
+.claude/CLAUDE.md
+.claude/settings.json
 .cobalt
 .codeintel
 .codekit-cache
@@ -957,6 +959,7 @@ ckeditor/ckfinder/core/connector/php/connector.php
 ckfinder/ckfinder.html
 classes/adodb/server.php
 classes/cookie.txt
+CLAUDE.md
 cleanup.log
 ClientAccessPolicy.xml
 clientaccesspolicy.xml
